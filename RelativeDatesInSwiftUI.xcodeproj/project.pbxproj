@@ -13,6 +13,7 @@
 		9521FA2523EB021D000D79F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9521FA2423EB021D000D79F2 /* Assets.xcassets */; };
 		9521FA2823EB021D000D79F2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9521FA2723EB021D000D79F2 /* Preview Assets.xcassets */; };
 		9521FA2B23EB021D000D79F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9521FA2923EB021D000D79F2 /* LaunchScreen.storyboard */; };
+		9521FA3323EB023D000D79F2 /* RelativeDates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9521FA3223EB023D000D79F2 /* RelativeDates.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9521FA2723EB021D000D79F2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9521FA2A23EB021D000D79F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9521FA2C23EB021D000D79F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9521FA3223EB023D000D79F2 /* RelativeDates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RelativeDates.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				9521FA2923EB021D000D79F2 /* LaunchScreen.storyboard */,
 				9521FA2C23EB021D000D79F2 /* Info.plist */,
 				9521FA2623EB021D000D79F2 /* Preview Content */,
+				9521FA3223EB023D000D79F2 /* RelativeDates.swift */,
 			);
 			path = RelativeDatesInSwiftUI;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 				9521FA1F23EB021C000D79F2 /* AppDelegate.swift in Sources */,
 				9521FA2123EB021C000D79F2 /* SceneDelegate.swift in Sources */,
 				9521FA2323EB021C000D79F2 /* ContentView.swift in Sources */,
+				9521FA3323EB023D000D79F2 /* RelativeDates.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
